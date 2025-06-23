@@ -21,7 +21,7 @@ const Hero = () => {
           {/* Image container */}
           <div className="flex-shrink-0 mb-8 lg:mb-0 lg:mr-12">
             <img
-              src="/b1.svg"
+              src="Avatar.jpg"
               alt="Hero Image"
               className="object-cover object-center rounded-full w-64 h-64 md:w-80 md:h-80 lg:w-96 lg:h-96"
             />
