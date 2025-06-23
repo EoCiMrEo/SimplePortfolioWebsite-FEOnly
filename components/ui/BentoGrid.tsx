@@ -154,6 +154,7 @@ export const BentoGridItem = ({
                       preserveAspectRatio: "xMidYMid slice",
                     },
                   }}
+                  eventListeners={[]} // <-- Prevents undefined events
                 />
               </div>
               <MagicButton
