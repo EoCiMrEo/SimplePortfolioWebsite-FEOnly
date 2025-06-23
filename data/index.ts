@@ -75,7 +75,7 @@ export const projects = [
     des: "A financial management web application that helps users track income, expenses, and savings goals with interactive charts and budget planning features.",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/python.svg", "/dock.svg"],
-    link: "https://github.com/adrianhajdin?tab=repositories",
+    link: "https://github.com/EoCiMrEo/ColeFitnessCenter-BE",
   },
   {
     id: 2,
@@ -83,7 +83,7 @@ export const projects = [
     des: "A web-based finance platform designed to manage budgets, track expenses, and generate reports, helping users make smarter financial decisions.",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "https://github.com/adrianhajdin/zoom-clone",
+    link: "https://github.com/EoCiMrEo/SmartFinance",
   },
   {
     id: 3,
@@ -91,7 +91,7 @@ export const projects = [
     des: "An embedded IoT security solution with motion sensors and real-time alerts, designed for intruder detection in smart environments using Raspberry Pi and Python.",
     img: "/p3.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "https://github.com/adrianhajdin/ai_saas_app",
+    link: "https://github.com/EoCiMrEo/IntruderDetector-EmbeddedDevice",
   },
   {
     id: 4,
@@ -99,7 +99,7 @@ export const projects = [
     des: "A clean and responsive personal portfolio website built with modern frontend tools to showcase projects and skills, featuring smooth transitions and interactive UI elements.",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://github.com/adrianhajdin/iphone",
+    link: "https://github.com/EoCiMrEo/SimplePortfolioWebsite-FEOnly",
   },
 ];
 
