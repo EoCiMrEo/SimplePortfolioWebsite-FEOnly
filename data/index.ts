@@ -81,7 +81,7 @@ export const projects = [
     id: 2,
     title: "Smart Finance - Management System",
     des: "A web-based finance platform designed to manage budgets, track expenses, and generate reports, helping users make smarter financial decisions.",
-    img: "/PortfolioThumbnail.png",
+    img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
     link: "https://github.com/EoCiMrEo/SmartFinance",
   },
@@ -89,7 +89,7 @@ export const projects = [
     id: 3,
     title: "Intruder Detector - Embedded System",
     des: "An embedded IoT security solution with motion sensors and real-time alerts, designed for intruder detection in smart environments using Raspberry Pi and Python.",
-    img: "/",
+    img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
     link: "https://github.com/EoCiMrEo/IntruderDetector-EmbeddedDevice",
   },
@@ -97,7 +97,7 @@ export const projects = [
     id: 4,
     title: "Porfolio - Simple Website (FE Only)",
     des: "A clean and responsive personal portfolio website built with modern frontend tools to showcase projects and skills, featuring smooth transitions and interactive UI elements.",
-    img: "/p4.svg",
+    img: "/PortfolioThumbnail.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "https://simple-portfolio-website-fe-only.vercel.app",
   },
@@ -202,12 +202,12 @@ export const socialMedia = [
   {
     id: 3,
     img: "/insta.svg",
-    link: "https://www.instagram.com/eocimreo/",
+    link: "https://www.instagram.com/luongp.phu/",
   },
   {
     id: 4,
     img: "/linked.svg",
-    link: "https://www.linkedin.com/in/eocimreo/",
+    link: "https://www.linkedin.com/in/phuluongphuong/",
   },
   {
     id: 5,
@@ -217,6 +217,6 @@ export const socialMedia = [
   {
     id: 6,
     img: "/face.svg",
-    link: "https://www.youtube.com/@EoCiMrEo",
+    link: "https://www.facebook.com/nhoi.ti.18/",
   },
 ];
