@@ -73,7 +73,7 @@ export const projects = [
     id: 1,
     title: "Cole Fitness Center - Management System",
     des: "A financial management web application that helps users track income, expenses, and savings goals with interactive charts and budget planning features.",
-    img: "/p1.svg",
+    img: "/ColeFitnessThumbnail.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/python.svg", "/dock.svg"],
     link: "https://github.com/EoCiMrEo/ColeFitnessCenter-BE",
   },
@@ -81,7 +81,7 @@ export const projects = [
     id: 2,
     title: "Smart Finance - Management System",
     des: "A web-based finance platform designed to manage budgets, track expenses, and generate reports, helping users make smarter financial decisions.",
-    img: "/p2.svg",
+    img: "/PortfolioThumbnail.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
     link: "https://github.com/EoCiMrEo/SmartFinance",
   },
@@ -89,7 +89,7 @@ export const projects = [
     id: 3,
     title: "Intruder Detector - Embedded System",
     des: "An embedded IoT security solution with motion sensors and real-time alerts, designed for intruder detection in smart environments using Raspberry Pi and Python.",
-    img: "/p3.svg",
+    img: "/",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
     link: "https://github.com/EoCiMrEo/IntruderDetector-EmbeddedDevice",
   },
@@ -99,7 +99,7 @@ export const projects = [
     des: "A clean and responsive personal portfolio website built with modern frontend tools to showcase projects and skills, featuring smooth transitions and interactive UI elements.",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://github.com/EoCiMrEo/SimplePortfolioWebsite-FEOnly",
+    link: "https://simple-portfolio-website-fe-only.vercel.app",
   },
 ];
 
@@ -161,21 +161,21 @@ export const workExperience = [
   {
     id: 1,
     title: "IT Specialist - Le Meridien of Marriott International (2023-2024)",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    desc: "Delivered technical support and maintained hotel IT infrastructure. Ensured secure and efficient IT operations",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
     title: "Teaching Assistant - Mercy University (2024 - Currently)",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    desc: "Provided instructional support for Python. Guided students with any of their concerns. Helped enhance learning outcomes",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 3,
     title: "Freelance Developer - Various Clients (2021 - 2023)",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    desc: "Designed and developed anapplication from scratch. Collaborated with clients to deliver custom solutions.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp4.svg",
   },
