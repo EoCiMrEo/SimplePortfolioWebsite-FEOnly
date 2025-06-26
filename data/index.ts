@@ -82,7 +82,7 @@ export const projects = [
     title: "Smart Finance - Management System",
     des: "A web-based finance platform designed to manage budgets, track expenses, and generate reports, helping users make smarter financial decisions.",
     img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+    iconLists: ["/dock.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
     link: "https://github.com/EoCiMrEo/SmartFinance",
   },
   {
@@ -90,7 +90,7 @@ export const projects = [
     title: "Intruder Detector - Embedded System",
     des: "An embedded IoT security solution with motion sensors and real-time alerts, designed for intruder detection in smart environments using Raspberry Pi and Python.",
     img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+    iconLists: ["/python.svg", "/dock.svg", "/ts.svg", "/three.svg", "/c.svg"],
     link: "https://github.com/EoCiMrEo/IntruderDetector-EmbeddedDevice",
   },
   {
@@ -98,7 +98,7 @@ export const projects = [
     title: "Porfolio - Simple Website (FE Only)",
     des: "A clean and responsive personal portfolio website built with modern frontend tools to showcase projects and skills, featuring smooth transitions and interactive UI elements.",
     img: "/PortfolioThumbnail.png",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    iconLists: ["/dock.svg", "/tail.svg", "/ts.svg", "/three.svg", "/re.svg"],
     link: "https://simple-portfolio-website-fe-only.vercel.app",
   },
 ];
@@ -197,7 +197,7 @@ export const socialMedia = [
   {
     id: 2,
     img: "/twit.svg",
-    link: "https://twitter.com/EoCiMrEo",
+    link: "https://x.com/EociMreo",
   },
   {
     id: 3,
@@ -212,7 +212,7 @@ export const socialMedia = [
   {
     id: 5,
     img: "/discord.svg",
-    link: "https://discord.gg/3d9c7a2e",
+    link: "https://discordapp.com/users/1227720935268814961",
   },
   {
     id: 6,
