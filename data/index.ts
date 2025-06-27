@@ -90,7 +90,13 @@ export const projects = [
     title: "Intruder Detector - Embedded System",
     des: "An embedded IoT security solution with motion sensors and real-time alerts, designed for intruder detection in smart environments using Raspberry Pi and Python.",
     img: "/p1.svg",
-    iconLists: ["/python.svg", "/dock.svg", "/ts.svg", "/three.svg", "/c.svg"],
+    iconLists: [
+      "/python.svg",
+      "/swift.svg",
+      "/dock.svg",
+      "/supabase.svg",
+      "/raspi.svg",
+    ],
     link: "https://github.com/EoCiMrEo/IntruderDetector-EmbeddedDevice",
   },
   {
@@ -98,7 +104,13 @@ export const projects = [
     title: "Porfolio - Simple Website (FE Only)",
     des: "A clean and responsive personal portfolio website built with modern frontend tools to showcase projects and skills, featuring smooth transitions and interactive UI elements.",
     img: "/PortfolioThumbnail.png",
-    iconLists: ["/dock.svg", "/tail.svg", "/ts.svg", "/three.svg", "/re.svg"],
+    iconLists: [
+      "/nextjs2.svg",
+      "/tail.svg",
+      "/ts.svg",
+      "/three.svg",
+      "/re.svg",
+    ],
     link: "https://simple-portfolio-website-fe-only.vercel.app",
   },
 ];

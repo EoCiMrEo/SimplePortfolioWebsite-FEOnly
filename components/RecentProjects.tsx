@@ -10,20 +10,19 @@ const RecentProject = () => {
         A small selection of{" "}
         <span className="text-purple">recent projects</span>
       </h1>
-      <div className="flex flex-wrap items-center justify-center p-4 gap-8 gap-y-30 md:gap-12 lg:gap-x-48 mt-6 max-w-7xl mx-auto">
+      <div className="flex flex-wrap items-center justify-center p-4 gap-8 gap-y-32 md:gap-12 lg:gap-x-48 mt-10 max-w-7xl mx-auto">
         {projects.map(({ id, title, des, img, iconLists, link }) => (
           <div
             key={id}
             className="sm:h-[10rem] lg:min-h-[30rem] flex items-center justify-center sm:w-[60vw] w-[95vw] max-w-sm"
           >
             <PinContainer title={link} href={link}>
-              <div className="relative flex items-center justify-center sm:w-[480px] w-[85vw] overflow-hidden sm:h-[19vh] lg:h-[39vh] mb-10">
-                <div className="relative w-full h-full overflow-hidden lg:rounded-3xl bg-[#13162D] border border-white/[0.1]">
-                  {/* <img src="/bg.png" alt="bg-img" /> */}
+              <div className="relative flex items-center justify-center w-[85vw] sm:w-[480px] sm:h-[23vh] lg:h-[39vh] overflow-hidden mb-5 h-[25vh]">
+                <div className="relative overflow-hidden w-full rounded-lg bg-[#13162D] border border-white/[0.2] h-full">
                   <img
                     src={img}
                     alt={title}
-                    className="z-10 absolute bottom-0"
+                    className="object-cover w-full h-full"
                   />
                 </div>
               </div>
