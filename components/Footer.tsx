@@ -24,7 +24,7 @@ const Footer = () => {
         </a>
       </div>
       <div className="flex mt-16 md:flex-row flex-col justify-between items-center">
-        <p className="md:text-base text-sm md:font-normal font-light mb-2">
+        <p className="md:text-base text-sm md:font-normal font-light mb-6">
           Copy Right © 2024{" "}
           <span className="text-green-300">EoCi-Edward Phuong</span>
         </p>

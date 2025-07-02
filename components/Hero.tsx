@@ -31,7 +31,7 @@ const Hero = () => {
           <div className="flex-1 max-w-2xl">
             <TextGenerateEffect
               className="text-center lg:text-left text-3xl md:text-4xl lg:text-5xl mb-6"
-              words="Hey There, How are you doing ?"
+              words="Hi, How are you doing ?"
             />
             <p className="text-center lg:text-left md:tracking-wider mb-8 text-sm md:text-lg lg:text-xl leading-relaxed">
               I'm Edward, a Funny IT guy from Viet Nam, I graduated Bachelor in

@@ -89,7 +89,7 @@ export const projects = [
     id: 3,
     title: "Intruder Detector - Embedded System",
     des: "An embedded IoT security solution with motion sensors and real-time alerts, designed for intruder detection in smart environments using Raspberry Pi and Python.",
-    img: "/p1.svg",
+    img: "/IntruderDetectorThumbnail.png",
     iconLists: [
       "/python.svg",
       "/swift.svg",
@@ -181,14 +181,14 @@ export const workExperience = [
     id: 2,
     title: "Teaching Assistant - Mercy University (2024 - Currently)",
     desc: "Provided instructional support for Python. Guided students with any of their concerns. Helped enhance learning outcomes",
-    className: "md:col-span-2", // change to md:col-span-2
+    className: "md:col-span-2",
     thumbnail: "/exp3.svg",
   },
   {
     id: 3,
     title: "Freelance Developer - Various Clients (2021 - 2023)",
     desc: "Designed and developed anapplication from scratch. Collaborated with clients to deliver custom solutions.",
-    className: "md:col-span-2", // change to md:col-span-2
+    className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
   {
